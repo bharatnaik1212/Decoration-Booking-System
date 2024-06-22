@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAiK Decorators & Events</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header class="head">
+        <a href="#" class="logo"><h2>NAiK Decorators & Events</h2></a>
+        <nav class="navbar ">
+            <a href="#" class="active">Home</a>
+            <a href="#service">Services</a>
+            <a href="#decoration">Decorations</a>  
+            <a href="#MoreDecorations">More-Decorations</a>
+            <a href="#contact">ContactUs</a>
+        </nav>
+        <div id="menu-bar"><i class="fas fa-bars"></i></div>
+    </header>
+
+    <!------------------------------Home-------------------------------------------->
+    <section class="home" id="home">
+        <form action="#">
+                <h1>Welcome to My Website</h1>
+                <h3>The Best Decorators with thousands of trusted Customers</h3>
+        </form>
+    </section>
+
+    <!--------------------------------Services-------------------------------------->
+    <section class="service" id="service">
+        <div class="title">
+            <h1><span>S</span>ervices</h1>
+        </div>
+        <div class="services-row">
+            <div class="services-col">
+                <i class="fab fa-pagelines"></i>
+                <h2>Wedding Decorations</h2>
+            </div>
+            <div class="services-col">
+                <i class=" fas fa-birthday-cake"></i>
+                <h2>Birthday Decorations</h2>
+            </div>
+
+            <div class="services-col">
+                <i class="fas fa-star"></i>
+                <h2>Baby-Shower Decorations</h2>
+            </div>
+
+            <div class="services-col">
+                <i class="fas fa-circle"></i>
+                <h2>Balloon Decorations</h2>
+            </div>
+
+            <div class="services-col">
+                <i class="fas fa-music"></i>
+                <h2>Sound & Lights</h2>
+            </div>
+            <div class="services-col">
+                <i class="fas fa-ring"></i>
+                <h2>Engagement Decorations</h2>
+                </div>
+
+            <div class="services-col">
+                <i class="fas fa-camera"></i>
+                <h2>Photo-Video & Pre-Wedding Shoot</h2>
+            </div>
+           
+           
+            <div class="services-col">
+                <i class="fas fa-circle"></i>
+                <h2>Other Functions</h2>
+            </div>
+        </div>
+    </section>
+    <!----------------------------- Wedding Decoration ------------------------------------------>
+    <section class="decoration " id="decoration">
+        <div class="title">
+            <h1><span>W</span>edding <span>D</span>ecorations <span>D</span>esign</h1>
+        </div>
+        <div class="decoration-list">
+           
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0141.jpg"alt="img">
+                <h2>Wedding Decoration</h2>
+                
+            </div>
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0131.jpg" alt="img">
+                <h2>Wedding Decoration</h2>
+               
+            </div>
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/Wedding 3.jpg" alt="img">
+                <h2>Wedding Decoration</h2>
+            </div>
+
+            <div class="decoration-list">
+            <a href="weddingImg.html"><button class="btn">More-Wedding Decorations</button></a>
+        </div>
+        </div>
+    </div>
+            </section>
+         
+            
+
+             <!----------------------- Birthday Decoration Decoration -------------------------------------------->
+             <section class="decoration " id="decoration">
+                <div class="title">
+                    <h1><span>B</span>irthday <span>D</span>ecorations <span>D</span>esign</h1>
+                </div>
+                <div class="decoration-list">
+             <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0027.jpg" alt="img">
+                <h2>Birthday Decoration</h2>
+            </div>
+                
+            
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0011.jpg" alt="img">
+                <h2>Birthday Decoration</h2>
+            </div>
+                
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0008.jpg" alt="img">
+                <h2>Birthday Decoration</h2>
+            </div>
+             
+            <div class="decoration-list">
+                <a href="BirthdayImg.html"><button class="btn">More-Birthday Decorations</button></a>
+            </div>
+        </div>
+                </section>
+
+        
+<!------------------------- Baby Shower Decoration --------------------------------------------->
+<section class="decoration " id="decoration">
+    <div class="title">
+        <h1><span>B</span>aby-Shower <span>D</span>ecorations <span>D</span>esign</h1>
+    </div>
+    <div class="decoration-list">
+
+        <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0121.jpg" alt="img">
+                <h2>Baby-Shower Decoration</h2>
+            </div>
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0110.jpg" alt="img">
+                <h2>Baby-Shower Decoration</h2>
+            </div>
+
+        <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0108.jpg" alt="img">
+                <h2>Baby-Shower Decoration</h2>
+            </div>
+
+            <div class="decoration-list">
+                <a href="BabyShower.html"><button class="btn">More-BabyShower Decorations</button></a>
+            </div>
+        </div>
+                </section>
+
+            <!------------------------------------ Balloon Decoration ---------------------------------------------------------->
+            <section class="decoration " id="decoration">
+                <div class="title">
+                    <h1><span>B</span>alloon <span>D</span>ecorations <span>D</span>esign</h1>
+                </div>
+                <div class="decoration-list">
+
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0111.jpg" alt="img">
+                <h2>Balloon Decoration</h2>
+            </div>
+
+       <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0233.jpg" alt="img">
+                <h2>Baloon Decoration</h2>
+            </div>
+
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/IMG-20240207-WA0239.jpg" alt="img">
+                <h2>Balloon Decoration</h2>
+            </div>
+
+           
+            <div class="decoration-list">
+                <a href="Balloon.html"><button class="btn">More-Balloon Decorations</button></a>
+            </div>
+        </div>
+                </section>
+<!--------------------------- Sound and Light ------------------------------------------------------>
+<section class="decoration " id="decoration">
+    <div class="title">
+        <h1><span>S</span>ound & <span>L</span>ight</h1>
+    </div>
+    <div class="decoration-list">
+
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/dj-img1.jpg" alt="img">
+                <h2>Sound & Light</h2>
+            </div>
+
+       <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/dj-img3.jpg" alt="img">
+                <h2>Sound & Light</h2>
+            </div>
+
+            <div class="decoration-row">
+                <div class="rate">&nbsp;<i class="fa fa-star" aria-hidden="true"></i></div>
+                <img src="Images/dj-img2.jpg" alt="img">
+                <h2>Sound & Light</h2>
+                 </div>
+
+                <div class="decoration-list">
+                    <button class="btn">More-Sound & Light</button>
+                </div>
+                    </section>
+<!------------------------------------------ More Decorations ------------------------------------------------->
+<section class="MoreDecorations" id="MoreDecorations">
+    <div class="title">
+        <h1><span>M</span>ore <span>D</span>ecorations</h1>
+    </div>
+    <div class="MoreDecorations-row">
+        <div class="MoreDecorations-col">
+            <a href="Haldi.html"><button class="btn">Haldi Decorations</button></a>
+        </div>
+
+        <div class="MoreDecorations-col">
+            <a href="Naming.html"><button class="btn">Naming-Ceremony Decorations</button></a>
+        </div>
+
+        <div class="MoreDecorations-col">
+            <a href="Opening.html"><button class="btn">Opening-Ceremony Decorations</button></a>
+        </div>
+
+        <div class="MoreDecorations-col">
+            <a href="Entry.html"><button class="btn">Entry Decorations</button></a>
+        </div>
+           </div>                    
+</section>
+
+    <!---------------------------------- footer section -------------------------------------------->
+    <footer id="contact">
+        <div class="container">
+            <div class="f-container">
+                <h2>Decoration & Events Planner - Your Personal Planner</h2><br>
+                <p> We have Brought for You SPECIAL DECORATIONS. Special Wedding-Decorations,Haldi-Decorations, Stage-Decorations, Birthday-Decorations,Balloon-Decorations, RingCeremony-Decorations, BabyShower-Decorations,NamingCeremony-Decorations,Anniversary-Decoration,School-College Annual Fuctions-Decoration, Sound, Light, and Many More Decorations Available  </p>
+               
+                <div class="social">
+                    <a href="tel:+918197617050"><button class="btn"><i class="fas fa-phone"></i></button></a>
+                    <a href="https://wa.me/qr/PG2CBZALCVEIP1"><button class="btn"><i class="fab fa-whatsapp"></i></button></a>
+                    <a href="https://www.instagram.com/invites/contact/?i=10xqu5emjnig7&utm_content=shniy14"><button class="btn"><i class="fab fa-instagram"></i></button></a>
+                </div>
+            </div>
+            <div class="f-container">
+                <h2> Our Location</h2>
+                <a href="#"><i class="fas fa-angle-right"></i>Vishal Naik</a>
+                <a href="#"><i class="fas fa-angle-right"></i>A/p: Gayakanwadi</a>
+                <a href="#" ><i class=" fas fa-angle-right "></i>Tal: Nippani</a>
+                <a href="# "><i class="fas fa-angle-right "></i>Dist: Belgavi</a>
+                <a href="# "><i class="fas fa-angle-right "></i>9902231299</a>
+                <a href="# "><i class="fas fa-angle-right "></i>8197617050</a>
+                
+            </div>
+                
+                <div class="f-container ">
+                    <form method="post" name="google-sheet" >
+                    <h2>Contact Me</h2>
+                    <p>Enter Your Name.</p>
+                    <input type="text" name="Name" id="" placeholder="Enter Your Name" required>
+                    <p>Enter Your Number</p>
+                    <input type="text " name="Number" placeholder="Enter Your Number" required>
+
+                    <p>Choose Your Decoration.</p>
+                   <select type="text" name="Decoration"  required>
+                        <option disabled selected>Select Your Decoration</option>
+                        <option value="Wedding Decoration" >Wedding Decoration</option>
+                        <option value="Birthday Decoration" >Birthday Decoration</option>
+                        <option value="Baloon Decoration" >Balloon Decoration</option>
+                        <option value="Baby-Shower Decoration" >Baby-Shower Decoration</option>
+                        <option value="Ring-Ceremony Decoration" >Ring-Ceremony Decoration</option>
+                        <option value="Haldi Decoration">Haldi Decoration</option>
+                        <option value="Naming-Ceremony Decoration">Naming-Ceremony Decoration</option>
+                        <option value="Opening-Ceremony Decoration">Opening-Ceremony Decoration</option>
+                        <option value="Sound and Lights" >Sound & Lights</option>
+                        <option value="Other">Other</option>
+                    </select>
+
+                    <p>Enter Decoration Photo Number</p>
+                    <input type="text"  name="PhotoNumber" placeholder="Enter Our Decoration Number" required>
+                      
+                    <p>Enter Decoration Date</p>
+                    <input type="date"  name="Date" placeholder="Enter Decoration Date" required>
+
+                    <p>Enter Your Address</p>
+                    <input style="height: 100px;" type="text" name="Address" id="" placeholder="Enter Your Address" required>
+                    <button class="btn" >Send</button>
+                </form>
+                <br></br>
+                <span id="msg"></span>
+            </div>
+            
+       </div>
+        </footer>
+        <div class="Design ">
+            <p> Design By Bharat Naik 2024 </p>
+        </div>
+
+        <!----------------------------Java Script -------------------------->
+<script>
+        let menu = document.querySelector('#menu-bar');
+let head = document.querySelector('.head .navbar');
+
+menu.onclick = () => {
+    head.classList.toggle('active');
+};
+
+window.onscroll = () => {
+    head.classList.remove('active');
+    if (window.scrollY > 60) {
+        document.querySelector('#menu-bar').classList.add('active');
+    } else {
+        document.querySelector('#menu-bar').classList.remove('active');
+    }
+};
+</script>
+<!-------------------------------  Java Script For Google Sheet ---------------------------------->
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbwTy9AHG1MmLFUIEEuPzIKLT8UYlt-AbWSmYG5MF_oFO2Nx7dYudQeAE5hQqsQqAMWz/exec '
+    const form = document.forms['google-sheet']
+  
+    form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => {
+                      msg.innerHTML="Thanks for Contacting us..! We Will Contact You Soon..."
+                      alert("Thanks for Contacting us..! We Will Contact You Soon...");
+            setTimeout(function(){
+                msg.innerHTML=""
+            },4000)
+            form.reset()
+        })
+                .catch(error => console.error('Error!', error.message))
+            })
+          
+  </script>
+</body>
+</html>
